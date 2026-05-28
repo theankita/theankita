@@ -24,28 +24,20 @@ pie title Technical Expertise
 
 ---
 
-# 📈 Career Timeline
+# 📈 Career Growth
+flowchart LR
 
-```mermaid
-timeline
-    title Career Growth
+A[2024<br>Python Automation] --> B[Disk Sanitizer]
+A --> C[Surveillance System]
 
-    2024 : Python Automation Projects
-         : Disk Sanitizer
-         : Surveillance System
+D[2024<br>Machine Learning] --> E[Prediction Models]
+D --> F[Recommendation Engine]
 
-    2024 : Machine Learning Systems
-         : Prediction Models
-         : Recommendation Engines
+G[2025<br>Deep Learning & LLMs] --> H[CNN Crack Detection]
+G --> I[RAG QA System]
 
-    2025 : Deep Learning & LLMs
-         : CNN Crack Detection
-         : RAG QA System
-
-    2025 : Full Stack Development
-         : Spring Boot APIs
-         : MongoDB Integration
-```
+J[2025<br>Full Stack Development] --> K[Spring Boot APIs]
+J --> L[MongoDB Integration]
 
 ---
 
