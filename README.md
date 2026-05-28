@@ -1,12 +1,188 @@
-# 💫 About Me:
-# Hi there, I'm Ankita 👋<br><br>🎓 MCA Student | 💻 Python Developer | 🤖 AI & Machine Learning Enthusiast | 🚀 Generative AI Explorer<br><br>Welcome to my GitHub profile!<br>I’m passionate about building real-world software solutions using **Python, Machine Learning, Deep Learning, Automation, and Large Language Models (LLMs)**.<br><br>I enjoy solving practical problems through code and continuously exploring modern AI technologies.<br><br>---<br><br>## 🚀 About Me<br><br>* 🎓 MCA Graduate from Bharati Vidyapeeth Deemed University<br>* 🧠 Interested in AI, ML, Deep Learning & Generative AI<br>* 🛠️ Hands-on experience in automation scripting and intelligent systems<br>* 📊 Skilled in Data Analytics, Visualization & Predictive Modeling<br>* 🌱 Currently learning advanced LLM applications and AI engineering<br>* 💡 Love building real-world projects with practical implementation<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 👨‍💻 Programming Languages<br><br>* Python<br>* C<br>* C++<br>* Java<br>* C# .NET<br>* PHP<br>* JavaScript<br><br>### 📚 Python Libraries & Frameworks<br><br>* NumPy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Scikit-learn<br>* TensorFlow<br>* Keras<br>* OpenCV<br>* Streamlit<br><br>### 🤖 AI / ML / Deep Learning<br><br>* Machine Learning<br>* Deep Learning<br>* CNN<br>* ANN<br>* NLP<br>* Computer Vision<br>* LLMs<br>* Prompt Engineering<br>* Hugging Face Transformers<br><br>### 🗄️ Databases<br><br>* MySQL<br>* MongoDB<br><br>### ⚙️ Tools & Platforms<br><br>* Git & GitHub<br>* VS Code<br>* Jupyter Notebook<br>* Google Colab<br>* Anaconda<br><br>---<br><br># 📌 Featured Projects<br><br>## 🔹 Automated Disk Sanitizer<br><br>A Python automation tool that detects and removes duplicate files automatically with logging and email reporting.<br><br>### ✨ Features<br><br>* Duplicate file detection using MD5 checksum<br>* Automated cleanup scheduling<br>* Log generation with timestamps<br>* Email automation using `smtplib`<br><br>🔗 GitHub Repo:<br>[Automated Disk Sanitizer](https://github.com/theankita/Automated_Disk_Sanitiser?utm_source=chatgpt.com)<br><br>---<br><br>## 🔹 Platform Surveillance System<br><br>A Python-based system monitoring and surveillance utility for tracking CPU, RAM, Disk, Network, and Processes.<br><br>### ✨ Features<br><br>* Real-time system monitoring<br>* Automated periodic logging<br>* Process tracking<br>* Performance analysis reports<br><br>🔗 GitHub Repo:<br>[Platform Surveillance System](https://github.com/theankita/Surveillance_System?utm_source=chatgpt.com)<br><br>---<br><br>## 🔹 Machine Learning Case Studies<br><br>Collection of real-world machine learning projects with end-to-end ML pipeline implementation.<br><br>### 📊 Projects Included<br><br>* House Price Prediction<br>* Ad Click Prediction<br>* Customer Segmentation<br>* Movie Recommendation System<br>* Industrial ML Pipelines<br>* Data Visualization & Analytics<br><br>🔗 GitHub Repo:<br>[ML Case Studies](https://github.com/theankita/Python_Case_Studies?utm_source=chatgpt.com)<br><br>---<br><br>## 🔹 Surface Crack Detection using CNN<br><br>Deep Learning project for detecting industrial surface cracks using Convolutional Neural Networks.<br><br>### ✨ Features<br><br>* Image preprocessing<br>* Feature extraction<br>* Binary classification<br>* Performance visualization<br><br>🔗 GitHub Repo:<br>[Surface Crack Detection using CNN](https://github.com/theankita/Surface_Crack_Detection?utm_source=chatgpt.com)<br><br>---<br><br>## 🔹 Intelligent Document Question Answering System<br><br>A RAG + LLM based system that answers questions from uploaded PDF documents.<br><br>### ✨ Features<br><br>* PDF text extraction<br>* Semantic search with FAISS<br>* LLM-powered contextual answers<br>* Streamlit interactive interface<br>* Ollama + Llama3 integration<br><br>🔗 GitHub Repo:<br>[Document Question Answering System](https://github.com/theankita/Question_Answering_System?utm_source=chatgpt.com)<br><br>---<br><br># 📈 GitHub Goals<br><br>* Build impactful AI projects<br>* Contribute to open-source<br>* Learn advanced AI engineering<br>* Explore scalable ML systems<br>* Create intelligent automation tools<br><br>---<br><br># 📫 Connect With Me<br><br>* 💼 LinkedIn:<br>  [Ankita Shinde LinkedIn](https://www.linkedin.com/in/ankitashhinde/?utm_source=chatgpt.com)<br><br>* 💻 GitHub:<br>  [theankita GitHub Profile](https://github.com/theankita?utm_source=chatgpt.com)<br><br>* 📧 Email:<br>  [ankitashindeofficiall@gmail.com](mailto:ankitashindeofficiall@gmail.com)<br><br>---<br><br>⭐ *“Code. Learn. Build. Repeat.”*<br>
+# Hi there, I'm Ankita 👋
+
+🎓 MCA Student | 💻 Python Developer | 🤖 AI & Machine Learning Enthusiast | 🚀 Generative AI Explorer
+
+Welcome to my GitHub profile!
+I’m passionate about building real-world software solutions using **Python, Machine Learning, Deep Learning, Automation, and Large Language Models (LLMs)**.
+
+I enjoy solving practical problems through code and continuously exploring modern AI technologies.
+
+---
+
+## 🚀 About Me
+
+* 🎓 MCA Graduate from Bharati Vidyapeeth Deemed University
+* 🧠 Interested in AI, ML, Deep Learning & Generative AI
+* 🛠️ Hands-on experience in automation scripting and intelligent systems
+* 📊 Skilled in Data Analytics, Visualization & Predictive Modeling
+* 🌱 Currently learning advanced LLM applications and AI engineering
+* 💡 Love building real-world projects with practical implementation
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+* Python
+* C
+* C++
+* Java
+* C# .NET
+* PHP
+* JavaScript
+
+### 📚 Python Libraries & Frameworks
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* TensorFlow
+* Keras
+* OpenCV
+* Streamlit
+
+### 🤖 AI / ML / Deep Learning
+
+* Machine Learning
+* Deep Learning
+* CNN
+* ANN
+* NLP
+* Computer Vision
+* LLMs
+* Prompt Engineering
+* Hugging Face Transformers
+
+### 🗄️ Databases
+
+* MySQL
+* MongoDB
+
+### ⚙️ Tools & Platforms
+
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* Google Colab
+* Anaconda
+
+---
+
+# 📌 Featured Projects
+
+## 🔹 Automated Disk Sanitizer
+
+A Python automation tool that detects and removes duplicate files automatically with logging and email reporting.
+
+### ✨ Features
+
+* Duplicate file detection using MD5 checksum
+* Automated cleanup scheduling
+* Log generation with timestamps
+* Email automation using `smtplib`
+
+🔗 GitHub Repo:
+[Automated Disk Sanitizer](https://github.com/theankita/Automated_Disk_Sanitiser?utm_source=chatgpt.com)
+
+---
+
+## 🔹 Platform Surveillance System
+
+A Python-based system monitoring and surveillance utility for tracking CPU, RAM, Disk, Network, and Processes.
+
+### ✨ Features
+
+* Real-time system monitoring
+* Automated periodic logging
+* Process tracking
+* Performance analysis reports
+
+🔗 GitHub Repo:
+[Platform Surveillance System](https://github.com/theankita/Surveillance_System?utm_source=chatgpt.com)
+
+---
+
+## 🔹 Machine Learning Case Studies
+
+Collection of real-world machine learning projects with end-to-end ML pipeline implementation.
+
+### 📊 Projects Included
+
+* House Price Prediction
+* Ad Click Prediction
+* Customer Segmentation
+* Movie Recommendation System
+* Industrial ML Pipelines
+* Data Visualization & Analytics
+
+🔗 GitHub Repo:
+[ML Case Studies](https://github.com/theankita/Python_Case_Studies?utm_source=chatgpt.com)
+
+---
+
+## 🔹 Surface Crack Detection using CNN
+
+Deep Learning project for detecting industrial surface cracks using Convolutional Neural Networks.
+
+### ✨ Features
+
+* Image preprocessing
+* Feature extraction
+* Binary classification
+* Performance visualization
+
+🔗 GitHub Repo:
+[Surface Crack Detection using CNN](https://github.com/theankita/Surface_Crack_Detection?utm_source=chatgpt.com)
+
+---
+
+## 🔹 Intelligent Document Question Answering System
+
+A RAG + LLM based system that answers questions from uploaded PDF documents.
+
+### ✨ Features
+
+* PDF text extraction
+* Semantic search with FAISS
+* LLM-powered contextual answers
+* Streamlit interactive interface
+* Ollama + Llama3 integration
+
+🔗 GitHub Repo:
+[Document Question Answering System](https://github.com/theankita/Question_Answering_System?utm_source=chatgpt.com)
+
+---
+
+# 📈 GitHub Goals
+
+* Build impactful AI projects
+* Contribute to open-source
+* Learn advanced AI engineering
+* Explore scalable ML systems
+* Create intelligent automation tools
+
+---
+
+# 📫 Connect With Me
+
+* 💼 LinkedIn:
+  [Ankita Shinde LinkedIn](https://www.linkedin.com/in/ankitashhinde/?utm_source=chatgpt.com)
+
+* 💻 GitHub:
+  [theankita GitHub Profile](https://github.com/theankita?utm_source=chatgpt.com)
+
+* 📧 Email:
+  [ankitashindeofficiall@gmail.com](mailto:ankitashindeofficiall@gmail.com)
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=theankita&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=theankita&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=theankita&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=theankita&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
