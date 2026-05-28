@@ -10,37 +10,6 @@
 
 ---
 
-# 📊 Technical Skill Distribution
-
-```mermaid
-pie title Technical Expertise
-    "Python & AI" : 35
-    "Java & Spring Boot" : 20
-    "Machine Learning" : 20
-    "Web Development" : 10
-    "Databases" : 10
-    "Automation & Tools" : 5
-```
-
----
-
-# 📈 Career Growth
-flowchart LR
-
-A[2024<br>Python Automation] --> B[Disk Sanitizer]
-A --> C[Surveillance System]
-
-D[2024<br>Machine Learning] --> E[Prediction Models]
-D --> F[Recommendation Engine]
-
-G[2025<br>Deep Learning & LLMs] --> H[CNN Crack Detection]
-G --> I[RAG QA System]
-
-J[2025<br>Full Stack Development] --> K[Spring Boot APIs]
-J --> L[MongoDB Integration]
-
----
-
 # 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -112,9 +81,3 @@ J --> L[MongoDB Integration]
 ✔️ Passionate About Real-World Problem Solving
 
 ---
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=theankita&color=blueviolet&style=for-the-badge)
-
-</div>
