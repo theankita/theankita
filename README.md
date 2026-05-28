@@ -1,73 +1,79 @@
 # Hi there, I'm Ankita 👋
 
-🎓 MCA Student | 💻 Python Developer | 🤖 AI & Machine Learning Enthusiast | 🚀 Generative AI Explorer
+<div align="center">
 
-Welcome to my GitHub profile!
-I’m passionate about building real-world software solutions using **Python, Machine Learning, Deep Learning, Automation, and Large Language Models (LLMs)**.
+# 💻 Python Developer | 🤖 AI & ML Enthusiast | 🚀 Generative AI Explorer
 
-I enjoy solving practical problems through code and continuously exploring modern AI technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Explorer;Generative+AI+Builder;LLM+%26+RAG+Developer" alt="Typing SVG" />
 
----
-
-## 🚀 About Me
-
-* 🎓 MCA Graduate from Bharati Vidyapeeth Deemed University
-* 🧠 Interested in AI, ML, Deep Learning & Generative AI
-* 🛠️ Hands-on experience in automation scripting and intelligent systems
-* 📊 Skilled in Data Analytics, Visualization & Predictive Modeling
-* 🌱 Currently learning advanced LLM applications and AI engineering
-* 💡 Love building real-world projects with practical implementation
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🌟 About Me
 
-### 👨‍💻 Programming Languages
+🎓 MCA Graduate from Bharati Vidyapeeth Deemed University
+💡 Passionate about AI, Automation, and Intelligent Systems
+📊 Skilled in Machine Learning, Deep Learning & Data Analytics
+🚀 Exploring Generative AI, LLMs, and RAG Applications
+🛠️ Building real-world AI and Automation projects using Python
 
-* Python
-* C
-* C++
-* Java
-* C# .NET
-* PHP
-* JavaScript
+---
 
-### 📚 Python Libraries & Frameworks
+# 📊 Technical Skills Overview
 
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* TensorFlow
-* Keras
-* OpenCV
-* Streamlit
+```mermaid
+pie title Technical Skill Distribution
+    "Python & Automation" : 35
+    "Machine Learning" : 20
+    "Deep Learning" : 15
+    "Generative AI & LLMs" : 15
+    "Data Analytics" : 10
+    "Databases & Tools" : 5
+```
 
-### 🤖 AI / ML / Deep Learning
+---
 
-* Machine Learning
-* Deep Learning
-* CNN
-* ANN
-* NLP
-* Computer Vision
-* LLMs
-* Prompt Engineering
-* Hugging Face Transformers
+# 🚀 Technology Stack
 
-### 🗄️ Databases
+## 👨‍💻 Programming Languages
 
-* MySQL
-* MongoDB
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### ⚙️ Tools & Platforms
+---
 
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
-* Google Colab
-* Anaconda
+## 🤖 AI / ML / Deep Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+---
+
+# 📈 Learning Journey
+
+```mermaid
+journey
+    title My AI & Development Journey
+    section Programming
+      Python : 5: Me
+      Automation : 4: Me
+      Data Structures : 4: Me
+    section AI & ML
+      Machine Learning : 5: Me
+      Deep Learning : 4: Me
+      NLP & LLMs : 4: Me
+    section Development
+      Streamlit Apps : 4: Me
+      GitHub Projects : 5: Me
+      Problem Solving : 4: Me
+```
 
 ---
 
@@ -75,39 +81,57 @@ I enjoy solving practical problems through code and continuously exploring moder
 
 ## 🔹 Automated Disk Sanitizer
 
-A Python automation tool that detects and removes duplicate files automatically with logging and email reporting.
+### 📌 Project Workflow
+
+```mermaid
+flowchart LR
+    A[Scan Directory] --> B[Detect Duplicate Files]
+    B --> C[Generate Logs]
+    C --> D[Delete Duplicates]
+    D --> E[Send Email Report]
+```
 
 ### ✨ Features
 
 * Duplicate file detection using MD5 checksum
-* Automated cleanup scheduling
+* Automated scheduling
 * Log generation with timestamps
-* Email automation using `smtplib`
+* Email automation using smtplib
 
 🔗 GitHub Repo:
-[Automated Disk Sanitizer](https://github.com/theankita/Automated_Disk_Sanitiser?utm_source=chatgpt.com)
+[https://github.com/theankita/Automated_Disk_Sanitiser](https://github.com/theankita/Automated_Disk_Sanitiser)
 
 ---
 
 ## 🔹 Platform Surveillance System
 
-A Python-based system monitoring and surveillance utility for tracking CPU, RAM, Disk, Network, and Processes.
+### 📊 Monitoring Components
 
-### ✨ Features
-
-* Real-time system monitoring
-* Automated periodic logging
-* Process tracking
-* Performance analysis reports
+```mermaid
+graph TD
+    A[System Monitoring] --> B[CPU Usage]
+    A --> C[RAM Usage]
+    A --> D[Disk Activity]
+    A --> E[Network Monitoring]
+    A --> F[Running Processes]
+```
 
 🔗 GitHub Repo:
-[Platform Surveillance System](https://github.com/theankita/Surveillance_System?utm_source=chatgpt.com)
+[https://github.com/theankita/Surveillance_System](https://github.com/theankita/Surveillance_System)
 
 ---
 
-## 🔹 Machine Learning Case Studies
+## 🔹 Machine Learning Projects
 
-Collection of real-world machine learning projects with end-to-end ML pipeline implementation.
+### 📈 ML Project Distribution
+
+```mermaid
+pie title Machine Learning Projects
+    "Prediction Systems" : 40
+    "Recommendation Systems" : 20
+    "Customer Segmentation" : 20
+    "Analytics & Visualization" : 20
+```
 
 ### 📊 Projects Included
 
@@ -116,73 +140,95 @@ Collection of real-world machine learning projects with end-to-end ML pipeline i
 * Customer Segmentation
 * Movie Recommendation System
 * Industrial ML Pipelines
-* Data Visualization & Analytics
+* Data Analytics & Visualization
 
 🔗 GitHub Repo:
-[ML Case Studies](https://github.com/theankita/Python_Case_Studies?utm_source=chatgpt.com)
+[https://github.com/theankita/Python_Case_Studies](https://github.com/theankita/Python_Case_Studies)
 
 ---
 
 ## 🔹 Surface Crack Detection using CNN
 
-Deep Learning project for detecting industrial surface cracks using Convolutional Neural Networks.
+### 🧠 Deep Learning Architecture
 
-### ✨ Features
-
-* Image preprocessing
-* Feature extraction
-* Binary classification
-* Performance visualization
+```mermaid
+flowchart LR
+    A[Input Images] --> B[Image Preprocessing]
+    B --> C[CNN Model]
+    C --> D[Feature Extraction]
+    D --> E[Binary Classification]
+    E --> F[Prediction Results]
+```
 
 🔗 GitHub Repo:
-[Surface Crack Detection using CNN](https://github.com/theankita/Surface_Crack_Detection?utm_source=chatgpt.com)
+[https://github.com/theankita/Surface_Crack_Detection](https://github.com/theankita/Surface_Crack_Detection)
 
 ---
 
 ## 🔹 Intelligent Document Question Answering System
 
-A RAG + LLM based system that answers questions from uploaded PDF documents.
+### 🤖 RAG Workflow
 
-### ✨ Features
-
-* PDF text extraction
-* Semantic search with FAISS
-* LLM-powered contextual answers
-* Streamlit interactive interface
-* Ollama + Llama3 integration
+```mermaid
+flowchart TD
+    A[Upload PDF] --> B[Text Extraction]
+    B --> C[Chunking]
+    C --> D[Embedding Generation]
+    D --> E[FAISS Vector Search]
+    E --> F[LLM Response Generation]
+    F --> G[Streamlit UI]
+```
 
 🔗 GitHub Repo:
-[Document Question Answering System](https://github.com/theankita/Question_Answering_System?utm_source=chatgpt.com)
+[https://github.com/theankita/Question_Answering_System](https://github.com/theankita/Question_Answering_System)
 
 ---
 
-# 📈 GitHub Goals
+# 📊 GitHub Analytics
 
-* Build impactful AI projects
-* Contribute to open-source
-* Learn advanced AI engineering
-* Explore scalable ML systems
-* Create intelligent automation tools
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theankita&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theankita&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=theankita&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 Built multiple AI, ML, Automation & GenAI projects
+🏅 Developed practical RAG & LLM applications
+🏅 Strong hands-on experience in Python & AI Development
+🏅 Created real-world intelligent automation systems
 
 ---
 
 # 📫 Connect With Me
 
-* 💼 LinkedIn:
-  [Ankita Shinde LinkedIn](https://www.linkedin.com/in/ankitashhinde/?utm_source=chatgpt.com)
+<div align="center">
 
-* 💻 GitHub:
-  [theankita GitHub Profile](https://github.com/theankita?utm_source=chatgpt.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/theankita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ankitashhinde/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ankitashindeofficiall@gmail.com)
 
-* 📧 Email:
-  [ankitashindeofficiall@gmail.com](mailto:ankitashindeofficiall@gmail.com)
+</div>
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+<div align="center">
 
+## ⭐ "Code. Learn. Build. Repeat."
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=theankita&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=theankita&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=theankita&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
