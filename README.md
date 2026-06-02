@@ -4,7 +4,7 @@
 
 # 🚀 AI/ML Engineer | Python Developer | Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;Generative+AI+Enthusiast;Full+Stack+Developer;Python+Automation+Expert" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Generative+AI+Enthusiast;Full+Stack+Developer;Python+Automation" />
 
 </div>
 
